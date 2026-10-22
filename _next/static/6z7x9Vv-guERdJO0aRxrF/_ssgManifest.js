@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fparticipante\u002F[id]","\u002Frodadas\u002F[n]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
